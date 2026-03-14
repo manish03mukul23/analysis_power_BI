@@ -48,7 +48,7 @@ Power BI | DAX | Data Analysis | Data Visualization | Business Intelligence
 
 Author
 
-Your Name
+Mukul Bisht
 Aspiring Data Analyst
 
 This type of README is best because:
